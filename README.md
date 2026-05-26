@@ -28,5 +28,4 @@ Open to connecting with people across disciplines.
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jin--A--Park-181717?style=flat-square&logo=github)](https://github.com/Jin-A-Park)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jin--A%20Park-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
