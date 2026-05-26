@@ -28,4 +28,4 @@ Open to connecting with people across disciplines.
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jin--A--Park-181717?style=flat-square&logo=github)](https://github.com/Jin-A-Park)
-[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jinashii1013@g.skku.edu)
